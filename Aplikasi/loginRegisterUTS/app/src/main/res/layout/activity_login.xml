@@ -1,38 +1,4 @@
-<body>
-    <table border="1">
-        <tr>
-            <th> Nama</th>
-            <th>NIM</th>
-            <th>Kelas</th>
-        </tr>
-        <tr>
-            <td>Ahmad Syukron</td>
-            <td>312110056</td>
-            <td>TI.21.A.1</td>
-        </tr>
-    </table>
-</body>
-
-# UTS Mobile
-## Tampilan dari Aplikasi Cloud
-
-### Penjelasan
-- Disini saya menggunakan <b>android studio</b> untuk pembuatan project saya
-
-![image](Image/Screenshot%202023-05-15%20095131.png)
-
-
-- Ada 3 layout yang saya buat dalam pembuatan project kali ini.
-1. <b> Activity_login</b>
-2. <b> Activity_main</b>
-3. <b> Activity_register</b>
-<p>
-
-Sorce code:
-
-1. <b> Activity_login</b>
-```bash
- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -157,11 +123,3 @@ Sorce code:
     </RelativeLayout>
 
 </RelativeLayout>
-```
-
-### Hasil
-![image](Image/2023-04-17%20(1).png)
-
-
-# END
-![Gambar 13](Image/anime-love.gif)
